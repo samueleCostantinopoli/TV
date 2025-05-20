@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/samueleCostantinopoli/TV/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai", RAI 1 (2)
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
+
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai", RAI 2 (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai", RAI 3
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
@@ -34,10 +34,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/32498738
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3163380543/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
 
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai", RAI GULP (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1803677691/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1901652742/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai", RAI ITALIA
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593/index.m3u8
@@ -52,16 +52,16 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/28356724
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
-
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8
 
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
+
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
@@ -157,10 +157,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/34480753
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport", EUROSPORT 2 (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2317684453/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2283887097/index.m3u8
 
 #EXTINF:-1 tvg-id="intertv.it" tvg-name="INTER TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport", INTER TV
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2973773076/index.m3u8
@@ -187,10 +187,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/27758022
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3445562519/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", SKY SPORT ARENA
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3007400791/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport", SKY SPORT ARENA (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3007400791/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport", SKY SPORT CALCIO
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
@@ -319,10 +319,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/14213931
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
@@ -355,10 +355,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/32165161
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV", SKY CINEMA SUSPENSE
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
@@ -466,10 +466,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/26950309
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/490955579/index.m3u8
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News", SKY TG 24
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3376031355/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/318057128/index.m3u8
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News", SKY TG 24 (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/318057128/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/3376031355/index.m3u8
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News", TG COM 24
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1785098768/index.m3u8
@@ -508,10 +508,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/12897770
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (3)
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
@@ -523,10 +523,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/30378719
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1995860185/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2255724318/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/11090349/index.m3u8
 
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", K2 (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/11090349/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2255724318/index.m3u8
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini", NICK JR
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/380958472/index.m3u8
@@ -556,10 +556,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/35548419
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
@@ -832,10 +832,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/28206833
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro", GIALLO (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro", GLOBUS TELEVISION
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2116902817/index.m3u8
@@ -1195,10 +1195,10 @@ https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/30381129
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1488746638/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UMBRIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro", UMBRIA TV
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2230919796/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1597386407/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UMBRIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Umbria_TV_wordmark%2C_ca._2020.png" group-title="Altro", UMBRIA TV (2)
-https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/1597386407/index.m3u8
+https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/2230919796/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNINETTUNO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRpKemP5FC0RLOQVhc9kPU71aJW9Tj9DU8g&s" group-title="Altro", UNINETTUNO
 https://victoria2552-sallo.hf.space/proxy/m3u?url=https://vavoo.to/play/797328723/index.m3u8
